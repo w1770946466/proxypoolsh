@@ -1,4 +1,4 @@
-# 在手机端快速搭建科学上网节点池
+#在手机端快速搭建科学上网节点池
 # termux 软件下载链接：
 https://f-droid.org/repo/com.termux_117.apk
 # 1、手机运行软件 termux
